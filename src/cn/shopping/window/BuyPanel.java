@@ -26,8 +26,6 @@ import cn.shopping.utils.AppData;
 import javax.swing.JSpinner;
 import javax.swing.SpinnerNumberModel;
 
-import net.miginfocom.swing.MigLayout;
-
 public class BuyPanel extends JPanel implements MouseListener, ChangeListener{
 	
 	private AppData appData = AppData.getInstance();
